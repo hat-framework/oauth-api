@@ -1,0 +1,16 @@
+{
+  "name": "hatframework/oauth-api",
+  "type": "library",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/hat-framework/oauth-api.git",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Thompson Filgueiras",
+      "email": "thom@hat-framework.org",
+      "homepage": "http://hat-framework.org",
+      "role": "Developer"
+    }
+  ]
+}
